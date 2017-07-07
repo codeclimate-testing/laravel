@@ -1,0 +1,7 @@
+engines:
+  structure:
+    enabled: true
+    channel: beta
+exclude_paths:
+  - public/
+  - resources/assets/
